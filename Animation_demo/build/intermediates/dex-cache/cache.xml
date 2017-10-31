@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vikas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_91f94dbf1d320502a3dfe5446990122a306438d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/libs/easyandroidanimationslibrary-v0.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="81d390299222db75e62708400b299080d122b28b">
+        <dex dex="/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/transforms/dex/debug/folders/1000/2/easyandroidanimationslibrary-v0.5_36e75f9c68e965e8c323e8adae606ebff8eba3a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c0ffefcab6d3fe8a54735d301411fc5afddf0265">
+        <dex dex="/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3c4d0106b99fccbabd2116dc502a7a11a16202df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a951a70b987b05dd538736eddf6833a3a18c89d1/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/res/merged/debug/layout/activity_animation_list.xml",
+        "source": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/src/main/res/layout/activity_animation_list.xml"
+    },
+    {
+        "merged": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/res/merged/debug/layout/fragment_animation_detail.xml",
+        "source": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/src/main/res/layout/fragment_animation_detail.xml"
+    },
+    {
+        "merged": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/res/merged/debug/layout/activity_animation_detail.xml",
+        "source": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/src/main/res/layout/activity_animation_detail.xml"
+    },
+    {
+        "merged": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/res/merged/debug/layout/activity_animation_twopane.xml",
+        "source": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/src/main/res/layout/activity_animation_twopane.xml"
+    }
+]

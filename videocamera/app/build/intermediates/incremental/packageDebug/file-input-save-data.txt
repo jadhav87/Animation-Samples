@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Fri Oct 13 16:42:09 IST 2017
+2.base=/Users/vikas/Documents/Vikas/Android App/Animation Samples/videocamera/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/vikas/Documents/Vikas/Android App/Animation Samples/videocamera/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=/Users/vikas/Documents/Vikas/Android App/Animation Samples/videocamera/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=/Users/vikas/Documents/Vikas/Android App/Animation Samples/videocamera/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9f8622249c05c2b443fbdd2c5bf1df3837a38d2e
+count=6
+0.file=/Users/vikas/Documents/Vikas/Android App/Animation Samples/videocamera/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c63a634fa010701b8c77e6fcc3f4d72f88e4d4b5/classes.dex
+5.base=/Users/vikas/Documents/Vikas/Android App/Animation Samples/videocamera/app/build/intermediates/res/resources-debug.ap_
+4.set=DEX
+1.file=/Users/vikas/Documents/Vikas/Android App/Animation Samples/videocamera/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/vikas/Documents/Vikas/Android App/Animation Samples/videocamera/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/icon.png
+0.base=/Users/vikas/Documents/Vikas/Android App/Animation Samples/videocamera/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c63a634fa010701b8c77e6fcc3f4d72f88e4d4b5
+3.file=/Users/vikas/Documents/Vikas/Android App/Animation Samples/videocamera/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/vikas/Documents/Vikas/Android App/Animation Samples/videocamera/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/vikas/Documents/Vikas/Android App/Animation Samples/videocamera/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9f8622249c05c2b443fbdd2c5bf1df3837a38d2e/classes.dex
+0.set=DEX

@@ -1,0 +1,7 @@
+#Thu Aug 24 17:56:48 IST 2017
+base.0=/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3c4d0106b99fccbabd2116dc502a7a11a16202df
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a951a70b987b05dd538736eddf6833a3a18c89d1/classes.dex
+base.1=/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a951a70b987b05dd538736eddf6833a3a18c89d1
+file.0=/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3c4d0106b99fccbabd2116dc502a7a11a16202df/classes.dex

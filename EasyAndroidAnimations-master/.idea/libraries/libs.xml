@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Animation_demo/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Animation_demo/libs/easyandroidanimationslibrary-v0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

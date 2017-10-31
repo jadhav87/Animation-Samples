@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/yellow_star.png",
+        "source": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/src/main/res/drawable-xhdpi/yellow_star.png"
+    },
+    {
+        "merged": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/img4.png",
+        "source": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/src/main/res/drawable-xhdpi/img4.png"
+    },
+    {
+        "merged": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/play_button.png",
+        "source": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/src/main/res/drawable-xhdpi/play_button.png"
+    },
+    {
+        "merged": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi/circle_android.png",
+        "source": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/src/main/res/drawable-xhdpi/circle_android.png"
+    }
+]

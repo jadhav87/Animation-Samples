@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/img1.jpg",
+        "source": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/src/main/res/drawable-xhdpi/img1.jpg"
+    },
+    {
+        "merged": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/img2.jpg",
+        "source": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/src/main/res/drawable-xhdpi/img2.jpg"
+    },
+    {
+        "merged": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/img5.jpg",
+        "source": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/src/main/res/drawable-xhdpi/img5.jpg"
+    },
+    {
+        "merged": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/img3.jpg",
+        "source": "/Users/vikas/Documents/Vikas/Android App/Animation Samples/Animation_demo/app/src/main/res/drawable-xhdpi/img3.jpg"
+    }
+]
